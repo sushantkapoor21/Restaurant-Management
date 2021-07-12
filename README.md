@@ -23,5 +23,6 @@ I've made the following 5 classes:
 5. PASSWORD: This class holds all the functions related to password.
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/84842113/125269635-84ba5b00-e326-11eb-8dad-cb1f6577d115.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/84842113/125269976-db279980-e326-11eb-9623-0442de159808.png)
 
 
