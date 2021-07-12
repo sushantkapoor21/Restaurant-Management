@@ -22,4 +22,6 @@ I've made the following 5 classes:
 4. OHISTORY: This class controls all the functions related to maintaining the record of all orders placed.
 5. PASSWORD: This class holds all the functions related to password.
 
+![Screenshot (45)](https://user-images.githubusercontent.com/84842113/125269635-84ba5b00-e326-11eb-8dad-cb1f6577d115.png)
+
 
