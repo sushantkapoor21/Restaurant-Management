@@ -1,16 +1,5 @@
 //SOURCE C++ CODE
 
-/*
-Program name    : <Restaurant Management>
-Version         : <1.0 (2017-2018)>
-Last Updated on : <14 November 2017>
-Filename        : <RESTAURANT_PROJECT.CPP>
-Developers      : <Sushant Kapoor,Semal Mahajan >
-School Name     : DLDAV MODEL SCHOOL, SHALIMAR BAGH, DELHI
-*/
-
-
-
 //RESTAURANT MANAGEMENT
 #include<fstream.h>
 #include<conio.h>
